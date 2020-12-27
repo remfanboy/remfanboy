@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <a target="_blank" href="https://discord.gg/tSPrtxAXnp">
+    <a target="_blank" href="https://discord.com/users/468240598483206154">
         <img alt="Discord" width="22px" src="resources/discord.png"/>
     </a>
     <a target="_blank" href="https://twitter.com/remfannboy">
