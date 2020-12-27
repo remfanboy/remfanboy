@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-    <img src="https://emoji.gg/assets/emoji/2608_Rem.png" />
+    <img src="resources/rem.png"/>
 </p>
 
 <p align="center">
